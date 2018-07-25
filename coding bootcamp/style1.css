@@ -1,0 +1,40 @@
+h1 {
+    background-color: black;
+    text-align: center;
+    font-weight: bolder;
+    color: antiquewhite
+}
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+    background: #efeee7;
+
+}
+
+img {
+    float: left
+
+}
+
+h4 {
+    float: right
+}
+
+p{
+    text-align: center
+}
+h4{
+    margin-top: 5px;
+    font-size: 15px;
+    text-align: right
+}
+
+ul {
+    text-align: right;
+    font-size: 10px;
+
+  }
